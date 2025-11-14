@@ -1,0 +1,14 @@
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\bin\Debug\net9.0\Target.exe
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\bin\Debug\net9.0\Target.deps.json
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\bin\Debug\net9.0\Target.runtimeconfig.json
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\bin\Debug\net9.0\Target.dll
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\bin\Debug\net9.0\Target.pdb
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\Target.AssemblyInfoInputs.cache
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\Target.AssemblyInfo.cs
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\Target.csproj.CoreCompileInputs.cache
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\Target.dll
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\refint\Target.dll
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\Target.pdb
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\Target.genruntimeconfig.cache
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\Target\obj\Debug\net9.0\ref\Target.dll

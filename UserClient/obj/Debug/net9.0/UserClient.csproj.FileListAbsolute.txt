@@ -1,0 +1,14 @@
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\bin\Debug\net9.0\UserClient.exe
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\bin\Debug\net9.0\UserClient.deps.json
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\bin\Debug\net9.0\UserClient.runtimeconfig.json
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\bin\Debug\net9.0\UserClient.dll
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\bin\Debug\net9.0\UserClient.pdb
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\UserClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\UserClient.AssemblyInfoInputs.cache
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\UserClient.AssemblyInfo.cs
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\UserClient.csproj.CoreCompileInputs.cache
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\UserClient.dll
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\refint\UserClient.dll
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\UserClient.pdb
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\UserClient.genruntimeconfig.cache
+C:\Users\mikael.makela\RiderProjects\CyberSecurityProject\UserClient\obj\Debug\net9.0\ref\UserClient.dll
